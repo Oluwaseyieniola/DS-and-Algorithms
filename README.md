@@ -1,2 +1,2 @@
-# DS-and-Algorithms
-Enacted some Data structures and algorithms in dart within this repository. This repository is a continuous process as thinking diversifies
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
